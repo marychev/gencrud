@@ -1,0 +1,58 @@
+#content #content-main .module,
+input[type=text], input[type=password], input[type=email], input[type=url], input[type=number],
+textarea, select, .vTextField, .button, input[type=submit], input[type=button], .submit-row input, a.button
+.submit-row a.deletelink, .submit-row, .submit-row a.deletelink, .selector-available h2, .selector-chosen h2, button {
+    border-radius: 0!important;}
+
+input[type=text], textarea.vLargeTextField {
+    width: 88%;
+}
+
+.add-row {
+    text-align: center;
+    text-shadow: unset!important;
+    box-shadow: unset!important;
+    background-color: #1d5030!important;
+    background-image: unset!important;
+    border: unset!important;
+    border-radius: unset!important;
+}
+
+.add-row:hover {
+    background-color: #1e5a35!important;
+}
+
+.form-horizontal .inline-group .add-row a {
+    padding: 15px;
+    font-size: 18px;
+    text-decoration: none!important;
+    text-shadow: unset!important;
+    color: #fff;
+}
+
+.form-horizontal .inline-group .inline-related {
+    border-bottom: 1px solid #3a3e40;
+}
+
+/* FOR JS */
+.jsMinusVal{
+    color: red!important;}
+
+#toBottom, #toTop{
+    background: #888;
+    padding: 0 7px;
+    position: fixed;
+    left: 3px;
+    border: 1px solid;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+    z-index: 100;
+}
+
+#toTop {
+    display: none;
+    bottom: 3px;
+    left: 3px;
+}
+

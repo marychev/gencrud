@@ -1,0 +1,7 @@
+APP_NAME = 'settings_template'
+BASE_FOOTER_VERBOSE_NAME = 'Футер'
+
+BASE_MENU_VERBOSE_NAME = 'Пункт меню'
+BASE_MENU_VERBOSE_NAME_PLURAL = 'Меню'
+
+BASE_SETTINGS_TEMPLATE_VERBOSE_NAME = 'Настройки шаблона'
