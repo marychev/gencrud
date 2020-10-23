@@ -1,4 +1,7 @@
-# Gen[crud] - free software for creating web projects
+# This is fork!
+# Actual version Gencrud https://github.com/gencrud/gencrud
+
+## Gen[crud] - free software for creating web projects. (varsion 0)
 
 Gencrud is the platform for creating simple sites, corporate sites, internet-shop, or blogs. 
 The platform is easy to expand and customize, which will create a project of any complexity.
